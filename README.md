@@ -1,7 +1,5 @@
 # AWS S3 File Management using Flask
 
-This repository contains the code for this [blogpost](https://stackabuse.com/file-management-with-aws-s3-python-and-flask/) on [StackAbuse](https://stackabuse.com/).
-
 ## Getting Started
 
 ### Prerequisites
